@@ -1,3 +1,5 @@
+package src.main;
+
 public class Calculadora {
     private double valorA;
     private double valorB;
